@@ -1,0 +1,11 @@
+{
+  "name": "TOKEN_NAME",
+  "symbol": "SYM",
+  "description": "Small description of your token.",
+  "image": "https://arweave.net/image-url-from-above",
+  "extensions": {
+    "website": "",
+    "twitter": "",
+    "telegram": ""
+  }
+}
