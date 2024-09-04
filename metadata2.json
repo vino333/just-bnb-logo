@@ -1,7 +1,7 @@
 {
   "name": "TOKEN_NAME", 
   "symbol": "TOKEN_SYMBOL",
-  "uri": "TOKEN_URI",
+  "uri": "https://github.com/vino333/just-bnb-logo/blob/main/token-data.json",
   "sellerFeeBasisPoints": 0,
   "creators": null,
   "collection": null,
