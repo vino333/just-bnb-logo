@@ -1,6 +1,5 @@
 {
   "name": "TOKEN_NAME",
   "symbol": "SYM",
-  "description": "Small description of your token.",
-  "image": "https://github.com/vino333/just-bnb-logo/blob/main/bnb-bnb-logo.png"
+  "uri": "https://github.com/vino333/just-bnb-logo/blob/main/bnb-bnb-logo.png"
 }
